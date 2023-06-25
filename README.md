@@ -1,5 +1,14 @@
-<h1 align="center">Hola 👋, Soy Samuel Rico</h1>
-<h3 align="center">Desarrollador de Software, entre otras cosas.</h3>
+<h1 align="center">Hi, I´m Samuel Rico 👋</h1>
+<h3>
+  sam = { <br/>
+    &nbsp&nbsp&nbsp&nbspoccupation : "Software developer",<br/>
+    &nbsp&nbsp&nbsp&nbsphobbies: {<br/>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspsports: "soccer",<br/>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsparts: "music",<br/>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspdrinking: "coffee"<br/>
+    &nbsp&nbsp&nbsp&nbsp}<br/>
+  }
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
