@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I´m Samuel Rico 👋</h1>
 <h3>
   sam = { <br/>
-    &nbsp&nbsp&nbsp&nbspoccupation : "Software engin",<br/>
+    &nbsp&nbsp&nbsp&nbspoccupation : "Software engineer",<br/>
     &nbsp&nbsp&nbsp&nbsphobbies: {<br/>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspsports: "soccer",<br/>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsparts: "music",<br/>
